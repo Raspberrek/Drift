@@ -11,8 +11,7 @@
   - small servo 9g
   - some cables
   
-- Home-made custom smoke generator with using: 
-  - 
+- Home-made custom smoke generator with using:
   - e-cigarette smoke module
   - RaspberryPI / PC small fan (5v 0.2A 20x20mm)
   - some ables
